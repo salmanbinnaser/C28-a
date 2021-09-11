@@ -4,6 +4,6 @@ class Paper{
     }
 
   display(){
-   super.display();
+   paper.display();
     }
 }
